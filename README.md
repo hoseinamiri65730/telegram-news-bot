@@ -7,7 +7,8 @@ TOKEN = 8192519758
 CHAT_ID = AAG5Rs_5iLK35SWlpqb8p63KHIlpO7Ue3Oo
 
 
-bot = Bot(token=TOKEN)
+bot = Bot(8192519758=AAG5Rs_5iLK35SWlpqb8p63KHIlpO7Ue3Oo
+)
 
 def get_latest_news():
     urls = [
