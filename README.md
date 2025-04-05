@@ -3,8 +3,9 @@ import feedparser
 from telegram import Bot
 import time
 
-TOKEN = 'توکن_ربات_اینجا'
-CHAT_ID = 'آی‌دی_عددیت_اینجا'
+TOKEN = 8192519758
+CHAT_ID = AAG5Rs_5iLK35SWlpqb8p63KHIlpO7Ue3Oo
+
 
 bot = Bot(token=TOKEN)
 
